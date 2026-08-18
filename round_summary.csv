@@ -1,0 +1,36 @@
+﻿Round ID,Review Cycle,Source Asset ID,Source Video,Country,Format Type,Video Length (sec),Prediction Confidence,Predicted Category,Winner Category,Prediction Correct,Winner 48h Retention,Winner 48h Watch Depth,Winner 48h Views,Winner 7d Views,Date Promoted
+R01,Jun 22 – Jul 5,SRC-001,"Wrong Train, Right Coast",Portugal,Storytime / mishap,31,High,Credential,Credential,Y,49.6,31.9,374,2698,2026-06-24
+R02,Jun 22 – Jul 5,SRC-002,Breakfast Before Sunrise,Turkey,Food / challenge,24,High,POV / Direct-address,POV / Direct-address,Y,51.1,35.8,214,1345,2026-06-25
+R03,Jun 22 – Jul 5,SRC-003,The Cliff Bus Stop,Madeira,Scenic story / tension,27,Medium,Numbered / Specific,Numbered / Specific,Y,66.4,41.1,241,2123,2026-06-26
+R04,Jun 22 – Jul 5,SRC-004,Night Market $12 Challenge,Taiwan,Budget challenge,36,High,Contrarian / Pattern-break,Contrarian / Pattern-break,Y,54.8,37.4,265,2410,2026-06-27
+R05,Jun 22 – Jul 5,SRC-005,The Empty Palace Room,Romania,History / discovery,42,High,Credential,Credential,Y,65.1,39.6,414,1759,2026-06-28
+R06,Jun 22 – Jul 5,SRC-006,Kayak Through the City,Slovenia,Adventure / POV,29,Medium,POV / Direct-address,POV / Direct-address,Y,65.6,45.4,1482,14370,2026-06-29
+R07,Jun 22 – Jul 5,SRC-007,The Bakery Line Was Worth It,Denmark,Food / review,22,Low,Contrarian / Pattern-break,Numbered / Specific,N,54.0,24.9,128,1260,2026-06-30
+R08,Jun 22 – Jul 5,SRC-008,Rain Ruined the View,Scotland,Weather / story,33,High,Contrarian / Pattern-break,Contrarian / Pattern-break,Y,56.1,37.1,184,1789,2026-07-01
+R09,Jul 6 – Jul 19,SRC-009,Ferry With No Cars,Croatia,Transit / discovery,25,High,Credential,Credential,Y,65.1,32.1,490,4103,2026-07-08
+R10,Jul 6 – Jul 19,SRC-010,Soccer in the Square,Mexico,Character / culture,34,Medium,POV / Direct-address,POV / Direct-address,Y,53.4,35.7,127,993,2026-07-09
+R11,Jul 6 – Jul 19,SRC-011,The 6 A.M. Beach Club,Brazil,Humor / contrast,23,High,Cold Open / Visual-only,Cold Open / Visual-only,Y,63.4,38.2,211,1112,2026-07-10
+R12,Jul 6 – Jul 19,SRC-012,"One Street, Five Desserts",Malaysia,Food / list,40,High,Credential,Credential,Y,59.5,39.7,1099,10204,2026-07-11
+R13,Jul 6 – Jul 19,SRC-013,The Last Cable Car,Switzerland,Tension / scenic,28,Medium,Numbered / Specific,Numbered / Specific,Y,57.5,30.0,432,2568,2026-07-12
+R14,Jul 6 – Jul 19,SRC-014,Apartment With a Secret Roof,Spain,Stay / reveal,26,High,Contrarian / Pattern-break,Contrarian / Pattern-break,Y,65.0,39.8,552,3435,2026-07-13
+R15,Jul 6 – Jul 19,SRC-015,Museum Speedrun,Netherlands,Humor / challenge,37,Low,Credential,POV / Direct-address,N,61.6,37.6,658,6061,2026-07-14
+R16,Jul 6 – Jul 19,SRC-016,Dinner on the Overnight Train,Austria,Transit / food,32,High,Credential,Credential,Y,60.7,27.9,673,7137,2026-07-15
+R17,Jul 20 – Aug 2,SRC-017,The Market That Closes at Noon,Morocco,Market / urgency,35,High,Cold Open / Visual-only,Cold Open / Visual-only,Y,65.8,44.0,734,7874,2026-07-22
+R18,Jul 20 – Aug 2,SRC-018,Swimming Under the Bridge,Bosnia & Herzegovina,Adventure / local tip,21,Medium,POV / Direct-address,POV / Direct-address,Y,51.7,33.5,1208,5706,2026-07-23
+R19,Jul 20 – Aug 2,SRC-019,The Quiet Side of the Island,Greece,Scenic / recommendation,30,High,Numbered / Specific,Numbered / Specific,Y,57.3,34.2,403,2536,2026-07-24
+R20,Jul 20 – Aug 2,SRC-020,The Wrong Menu Translation,Japan,Humor / food,25,High,Contrarian / Pattern-break,Contrarian / Pattern-break,Y,57.6,27.1,358,2668,2026-07-25
+R21,Jul 20 – Aug 2,SRC-021,Elevator to a Hike,Hong Kong,Urban adventure,33,Medium,Credential,Credential,Y,51.0,38.0,365,2462,2026-07-26
+R22,Jul 20 – Aug 2,SRC-022,Five-Euro Stadium Seat,Portugal,Sports / value,29,High,POV / Direct-address,POV / Direct-address,Y,65.4,24.8,171,1524,2026-07-27
+R23,Jul 20 – Aug 2,SRC-023,The Village Vending Machine,Italy,Oddity / discovery,20,High,Numbered / Specific,Numbered / Specific,Y,62.9,24.2,425,2038,2026-07-28
+R24,Jul 20 – Aug 2,SRC-024,Three-Minute Border Crossing,Estonia,Transit / explainer,27,Low,Numbered / Specific,Contrarian / Pattern-break,N,63.0,43.5,476,5161,2026-07-29
+R25,Jul 20 – Aug 2,SRC-025,The Rooftop Nobody Advertised,Argentina,Stay / reveal,24,High,Cold Open / Visual-only,Cold Open / Visual-only,Y,53.2,39.8,913,4165,2026-07-30
+R26,Aug 3 – Aug 16,SRC-026,Lunch Between Two Waterfalls,Iceland,Scenic / food,28,Medium,Credential,Credential,Y,64.3,32.1,146,1431,2026-08-05
+R27,Aug 3 – Aug 16,SRC-027,Lost in the Blue Streets,Tunisia,Navigation / visual,31,High,POV / Direct-address,POV / Direct-address,Y,64.3,39.6,186,1885,2026-08-06
+R28,Aug 3 – Aug 16,SRC-028,The 90-Second Boat Ride,Norway,Transit / scenic,18,Medium,Numbered / Specific,Numbered / Specific,Y,65.4,29.5,402,4356,2026-08-07
+R29,Aug 3 – Aug 16,SRC-029,The Restaurant With No Sign,Georgia,Food / discovery,34,High,Contrarian / Pattern-break,Contrarian / Pattern-break,Y,57.3,44.9,400,2598,2026-08-08
+R30,Aug 3 – Aug 16,SRC-030,The Beach You Reach by Ladder,Malta,Adventure / reveal,26,Medium,POV / Direct-address,Credential,N,56.9,25.7,167,1274,2026-08-09
+R31,Aug 3 – Aug 16,SRC-031,Library With a View,South Korea,Quiet / architecture,32,Low,POV / Direct-address,POV / Direct-address,Y,66.0,29.0,1389,15790,2026-08-10
+R32,Aug 3 – Aug 16,SRC-032,Bus Driver’s Dinner Stop,Albania,Local moment / food,39,Medium,Cold Open / Visual-only,Cold Open / Visual-only,Y,61.1,40.0,465,3917,2026-08-11
+R33,Aug 3 – Aug 16,SRC-033,The Mountain Café Test,Nepal,Food / altitude,30,High,Numbered / Specific,Numbered / Specific,Y,52.2,38.1,335,3164,2026-08-12
+R34,Aug 3 – Aug 16,SRC-034,Sunset From the Parking Garage,Australia,Urban scenic / tip,22,High,Contrarian / Pattern-break,Contrarian / Pattern-break,Y,61.0,40.6,314,1335,2026-08-13
+R35,Aug 3 – Aug 16,SRC-035,The 4 A.M. Fish Auction,Vietnam,Culture / morning,41,Low,Credential,Credential,Y,48.1,37.5,208,1667,2026-08-13
